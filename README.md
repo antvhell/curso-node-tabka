@@ -8,4 +8,4 @@ Options:
   -b, --base     Es la base de la tabla de multiplicar       [number] [required]
   -h, --hasta    Este es el numero hasta donde quieres la tabla
 
-  ````
+  ```
